@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... getiing certified on RHCSA
-
+- 📫 How to reach me: kevintsafack@protonmail.com
+- 🔭 I’m currently working on getiing certified RHCSA
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on anything that can improve my skill set
 <!--
 **8Ten10/8Ten10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
