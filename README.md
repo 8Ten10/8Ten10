@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: kevintsafack@protonmail.com
-- 🔭 I’m currently working on getiing certified RHCSA
+- 🔭 ...
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on anything that can improve my skill set
 <!--
