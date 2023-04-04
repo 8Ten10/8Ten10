@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: kevintsafack@protonmail.com
 - 🔭 ...
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently ...
 - 👯 I’m looking to collaborate on anything that can improve my skill set
 <!--
 **8Ten10/8Ten10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
