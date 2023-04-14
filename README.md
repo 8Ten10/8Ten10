@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: kevintsafack@protonmail.com
+- 📫 How to reach me: koruko45@protonmail.com
 - 🔭 ...
 - 🌱 I’m currently ...
 - 👯 I’m looking to collaborate on anything that can improve my skill set
