@@ -4,6 +4,8 @@
 - 🔭 ...
 - 🌱 I’m currently ...
 - 👯 I’m looking to collaborate on anything that can improve my skill set
+
+
 ![](https://komarev.com/ghpvc/?username=8Ten10)
 <!--
 **8Ten10/8Ten10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
