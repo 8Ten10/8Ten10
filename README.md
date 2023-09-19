@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: _@protonmail.com
+- 📫 How to reach me: kevintsafack@protonmail.com
 - 👯 I’m looking to collaborate on anything that can improve my skill set
 
 
