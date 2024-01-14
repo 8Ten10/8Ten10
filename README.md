@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: kevintsafack@protonmail.com
-- 👯 I’m looking to collaborate on anything that can improve my skill set
+
 
 
 ![](https://komarev.com/ghpvc/?username=8Ten10)
@@ -9,7 +8,8 @@
 **8Ten10/8Ten10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 📫 How to reach me: kevintsafack@protonmail.com
+- 👯 I’m looking to collaborate on anything that can improve my skill set
 - 🔭 I’m currently working on ... getiing certified on RHCSA
 - 🌱 I’m currently learning ... Python
 - 👯 I’m looking to collaborate on ...
