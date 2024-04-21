@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ...
 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/8Ten10/Mirror-And-Control-Your-Android-Device))
