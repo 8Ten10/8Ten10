@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ...
 -->
-
-[![Mirror-And-Control-Your-Android-Device](https://github-readme-stats.vercel.app/api/pin/?username=8Ten10&repo=Mirror-And-Control-Your-Android-Device)](https://github.com/8Ten10/Mirror-And-Control-Your-Android-Device)
