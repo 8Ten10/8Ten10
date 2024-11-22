@@ -1,9 +1,9 @@
-### Hi there 👋
-
-
-
-
+<!-- ### Hi there 👋 -->
 ![](https://komarev.com/ghpvc/?username=8Ten10)
+
+![Welcome](https://github.com/user-attachments/assets/07d022f3-573e-4751-bdea-7bcf7c6d4b88)
+
+
 <!--
 **8Ten10/8Ten10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
